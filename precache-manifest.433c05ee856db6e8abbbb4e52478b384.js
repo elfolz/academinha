@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7306b65187fb5eba2c6f",
-    "url": "/academinha/css/app~d0ae3f07.aaf30bd0.css"
+    "revision": "390eb31e94d2dcf62d27",
+    "url": "/academinha/css/app~d0ae3f07.c8fe987a.css"
   },
   {
     "revision": "12119734b4a5002f7e1f",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/academinha/img/6.png"
   },
   {
-    "revision": "708a8f739d0f9e201cebd5be9d894b1d",
+    "revision": "e7094f963b354ae1061b3f14f04d24fd",
     "url": "/academinha/index.html"
   },
   {
-    "revision": "7306b65187fb5eba2c6f",
-    "url": "/academinha/js/app~d0ae3f07.f443049b.js"
+    "revision": "390eb31e94d2dcf62d27",
+    "url": "/academinha/js/app~d0ae3f07.5208e7ae.js"
   },
   {
     "revision": "ad980a4232755719a692",
