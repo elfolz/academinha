@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab12122bf79c9f99f347",
-    "url": "/academinha/css/app~d0ae3f07.8bf9e769.css"
+    "revision": "5aedd61935416b221318",
+    "url": "/academinha/css/app~d0ae3f07.0140fdc2.css"
   },
   {
     "revision": "12119734b4a5002f7e1f",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/academinha/img/6.png"
   },
   {
-    "revision": "79abb92d17a1cbdda29ee3cc732fc7eb",
+    "revision": "f0cfbeade2125a622695c9c158967308",
     "url": "/academinha/index.html"
   },
   {
-    "revision": "ab12122bf79c9f99f347",
-    "url": "/academinha/js/app~d0ae3f07.5e80c7a3.js"
+    "revision": "5aedd61935416b221318",
+    "url": "/academinha/js/app~d0ae3f07.203fbe9a.js"
   },
   {
     "revision": "ad980a4232755719a692",
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/academinha/js/chunk-vendors~fdc6512a.6c75db60.js"
   },
   {
-    "revision": "a923c426ad0f67d18bcd858f15c0d3c8",
+    "revision": "2132a09b135fe726544060f80ce2403f",
     "url": "/academinha/manifest.json"
   },
   {
