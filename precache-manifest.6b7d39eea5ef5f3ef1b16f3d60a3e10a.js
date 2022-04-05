@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/.well-known/assetlinks.json"
   },
   {
-    "revision": "25dfc700a4748605d6ce",
-    "url": "/css/app~d0ae3f07.020076f6.css"
+    "revision": "81e1f99e3ef71d16b753",
+    "url": "/css/app~d0ae3f07.68fa9d87.css"
   },
   {
     "revision": "646cff2c51c9d3b510dc",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/promo.jpg"
   },
   {
-    "revision": "64372606d338da9f88d80863551171d4",
+    "revision": "23736f063df1af4aa3223d9e81592068",
     "url": "/index.html"
   },
   {
-    "revision": "25dfc700a4748605d6ce",
-    "url": "/js/app~d0ae3f07.9137f8c1.js"
+    "revision": "81e1f99e3ef71d16b753",
+    "url": "/js/app~d0ae3f07.147432a1.js"
   },
   {
     "revision": "646cff2c51c9d3b510dc",
