@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68d0375cab9c6ad1ccd4",
-    "url": "/css/app~d0ae3f07.30ed762d.css"
+    "revision": "cea4252a91594f94a692",
+    "url": "/css/app~d0ae3f07.0dd7b821.css"
   },
   {
     "revision": "646cff2c51c9d3b510dc",
@@ -48,16 +48,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/6.png"
   },
   {
+    "revision": "b07c17305d958b44cecdeb09f32493b8",
+    "url": "/img/icons/android-chrome-192x192.png"
+  },
+  {
+    "revision": "9d25f47c66ae0a72e927e910bdb55ecf",
+    "url": "/img/icons/android-chrome-512x512.png"
+  },
+  {
+    "revision": "ae38da163097cc138b7a749bf1a112c2",
+    "url": "/img/icons/android-chrome-maskable-192x192.png"
+  },
+  {
+    "revision": "eea21345522e82620897b007b88b9097",
+    "url": "/img/icons/android-chrome-maskable-512x512.png"
+  },
+  {
+    "revision": "b07c17305d958b44cecdeb09f32493b8",
+    "url": "/img/icons/apple-touch-icon.png"
+  },
+  {
+    "revision": "4e31f0ca559ee8c9529061340f240099",
+    "url": "/img/icons/favicon-16x16.png"
+  },
+  {
+    "revision": "37d6407279c9e82f90b99714af2c28e5",
+    "url": "/img/icons/favicon-32x32.png"
+  },
+  {
+    "revision": "5f12315bae9081a81d60c64468c858bf",
+    "url": "/img/icons/logo-white.png"
+  },
+  {
+    "revision": "dc70c903812b5116efb6983d27f34256",
+    "url": "/img/icons/logo-white.svg"
+  },
+  {
     "revision": "56aeeb28c5a9f98e230a2be36bef5018",
     "url": "/img/promo.jpg"
   },
   {
-    "revision": "55681ae190e7fa8e3df30e638634e48b",
+    "revision": "89317f6e3775e6c60537e2636d525c49",
     "url": "/index.html"
   },
   {
-    "revision": "68d0375cab9c6ad1ccd4",
-    "url": "/js/app~d0ae3f07.622243a3.js"
+    "revision": "cea4252a91594f94a692",
+    "url": "/js/app~d0ae3f07.da97d461.js"
   },
   {
     "revision": "646cff2c51c9d3b510dc",
@@ -138,10 +174,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "48e9a323061b5bb2032a",
     "url": "/js/chunk-vendors~fdc6512a.6c75db60.js"
-  },
-  {
-    "revision": "2132a09b135fe726544060f80ce2403f",
-    "url": "/manifest.json"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
