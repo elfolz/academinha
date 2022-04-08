@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/.nojekyll"
   },
   {
-    "revision": "4adf9ffd7f23039c00e4",
-    "url": "/css/app~d0ae3f07.3217603d.css"
+    "revision": "54fe985f8e27f0db800a",
+    "url": "/css/app~d0ae3f07.da72bd7e.css"
   },
   {
     "revision": "36a4d5bd1e2c4da9bd3c",
@@ -128,12 +128,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/social/twitter.svg"
   },
   {
-    "revision": "0962575a34937045653a43e0dfc87b52",
+    "revision": "5161341c51f06ae9ee4b5b0207173267",
     "url": "/index.html"
   },
   {
-    "revision": "4adf9ffd7f23039c00e4",
-    "url": "/js/app~d0ae3f07.d7cbce3c.js"
+    "revision": "54fe985f8e27f0db800a",
+    "url": "/js/app~d0ae3f07.b17e4385.js"
   },
   {
     "revision": "36a4d5bd1e2c4da9bd3c",
