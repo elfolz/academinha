@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.b0cb235a0dbacdf1eb4c748ced34c8e0.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/precache-manifest.f77db7824761e00245c500f5badb375a.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 workbox.core.setCacheNameDetails({ prefix: 'academinha' })
 self.__precacheManifest = [].concat(self.__precacheManifest || [])
